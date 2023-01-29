@@ -1,5 +1,3 @@
-//Rana abdulsalam mohammed 20200752 S35
-//Mohammed Ahmed Saleh 20200693 S35
 
 #include <iostream>
 #include<windows.h>
